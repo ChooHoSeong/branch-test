@@ -1,1 +1,2 @@
 "hello, can you see me?" 
+"my name is ChooHoSeong"
