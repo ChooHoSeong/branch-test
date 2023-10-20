@@ -1,2 +1,7 @@
 "hello, can you see me?" 
+<<<<<<< HEAD
 "this is me!"
+=======
+"my name is ChooHoSeong"
+"hmmmm, so funny"
+>>>>>>> test_branch2
