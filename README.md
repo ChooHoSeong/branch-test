@@ -1,3 +1,3 @@
-# This repository is my own directory including OSS_lecture's labs and materials
+# Repository for study OSS_lecture
 
 - practicing git
